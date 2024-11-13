@@ -1,0 +1,34 @@
+﻿@model GmailRegistrationDemo.Data.Models.RegisterStep7ViewModel
+
+@{
+    ViewData["Title"] = "Step 7: Add Recovery Email";
+    ViewBag.CurrentStep = 7;
+}
+
+<h2 class="mb-4 text-center">@ViewData["Title"]</h2>
+
+@await Html.PartialAsync("_ProgressBar")
+
+<div class="card shadow-sm">
+    <div class="card-body">
+        <p>The address where Google can contact you if there’s unusual activity in your account or if you get locked out.</p>
+        <form asp-action="Step7" asp-controller="Registration" method="post">
+            <div class="form-group">
+                <label asp-for="RecoveryEmail"></label>
+                <input asp-for="RecoveryEmail" class="form-control" placeholder="Enter recovery email (optional)" />
+                <span asp-validation-for="RecoveryEmail" class="text-danger"></span>
+            </div>
+
+            <!-- Back, Next and Skip button Buttons -->
+            <a asp-action="Step6" asp-controller="Registration" class="btn btn-secondary">Back</a>
+            <button type="submit" class="btn btn-primary">Next</button>
+            <a asp-action="Step8" asp-controller="Registration" class="btn btn-secondary">Skip</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

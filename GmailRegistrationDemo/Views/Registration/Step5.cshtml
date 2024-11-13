@@ -1,0 +1,46 @@
+﻿@model GmailRegistrationDemo.Data.Models.RegisterStep5ViewModel
+
+@{
+    ViewData["Title"] = "Step 5: Enter Your Phone Number";
+    ViewBag.CurrentStep = 5;
+}
+
+<h2 class="mb-4 text-center">@ViewData["Title"]</h2>
+
+@await Html.PartialAsync("_ProgressBar")
+
+<div class="card shadow-sm">
+    <div class="card-body">
+        <p>Google will verify this number via SMS (charges may apply).</p>
+        <form asp-action="Step5" asp-controller="Registration" method="post">
+            <div class="form-group row">
+                <!-- Country Code -->
+                <div class="col-md-4">
+                    <label asp-for="CountryCode"></label>
+                    <select asp-for="CountryCode" asp-items="Model.CountryCodes" class="form-select">
+                        <option value="">Select Country</option>
+                    </select>
+                    <span asp-validation-for="CountryCode" class="text-danger"></span>
+                </div>
+                <!-- Phone Number -->
+                <div class="col-md-8">
+                    <label asp-for="PhoneNumber"></label>
+                    <input asp-for="PhoneNumber" class="form-control" placeholder="Enter your phone number" />
+                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                </div>
+            </div>
+
+            <!-- Back and Next Buttons -->
+            <div class="form-group mt-3 text-end">
+                <a asp-action="Step4" class="btn btn-secondary">Back</a>
+                <button type="submit" class="btn btn-primary">Next</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

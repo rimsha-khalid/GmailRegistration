@@ -1,0 +1,36 @@
+﻿@model GmailRegistrationDemo.Data.Models.RegisterStep1ViewModel
+
+@{
+    ViewData["Title"] = "Step 1: Enter Your Name";
+    ViewBag.CurrentStep = 1;
+}
+
+<h2 class="mb-4 text-center">@ViewData["Title"]</h2>
+
+@await Html.PartialAsync("_ProgressBar")
+
+<div class="card shadow-sm">
+    <div class="card-body">
+        <form asp-action="Step1" asp-controller="Registration" method="post">
+            <div class="form-group mt-3">
+                <label asp-for="FirstName"></label>
+                <input asp-for="FirstName" class="form-control" placeholder="First Name" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <label asp-for="LastName"></label>
+                <input asp-for="LastName" class="form-control" placeholder="Last Name" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3 text-end">
+                <button type="submit" class="btn btn-primary">Next</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

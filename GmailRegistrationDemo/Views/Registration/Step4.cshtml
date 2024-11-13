@@ -1,0 +1,52 @@
+﻿@model GmailRegistrationDemo.Data.Models.RegisterStep4ViewModel
+
+@{
+    ViewData["Title"] = "Step 4: Create a Strong Password";
+    ViewBag.CurrentStep = 4;
+}
+
+<h2 class="mb-4 text-center">@ViewData["Title"]</h2>
+
+@await Html.PartialAsync("_ProgressBar")
+
+<div class="card shadow-sm">
+    <div class="card-body">
+        <form asp-action="Step4" asp-controller="Registration" method="post">
+            <div class="form-group">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" class="form-control" placeholder="Create your password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConfirmPassword"></label>
+                <input asp-for="ConfirmPassword" class="form-control" placeholder="Confirm your password" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <input asp-for="ShowPassword" id="showPassword" class="form-check-input" type="checkbox" />
+                <label asp-for="ShowPassword" class="form-check-label">Show Password</label>
+            </div>
+            <!-- Back and Next Buttons -->
+            <div class="form-group mt-3 text-end">
+                <a asp-action="Step3" class="btn btn-secondary">Back</a>
+                <button type="submit" class="btn btn-primary">Next</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function () {
+            // Toggle password visibility
+            $('#showPassword').change(function () {
+                const type = $(this).is(':checked') ? 'text' : 'password';
+                $('input[name="Password"]').attr('type', type);
+                $('input[name="ConfirmPassword"]').attr('type', type);
+            });
+        });
+    </script>
+}

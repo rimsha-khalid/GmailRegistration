@@ -1,0 +1,11 @@
+﻿@{
+    var currentStep = ViewBag.CurrentStep ?? 1;
+    var totalSteps = 9;
+    var progressPercentage = (currentStep / (double)totalSteps) * 100;
+}
+
+<div class="progress mb-4" style="height: 30px;">
+    <div class="progress-bar" role="progressbar" style="width: @progressPercentage%;" aria-valuenow="@progressPercentage" aria-valuemin="0" aria-valuemax="100">
+        Step @currentStep of @totalSteps
+    </div>
+</div>

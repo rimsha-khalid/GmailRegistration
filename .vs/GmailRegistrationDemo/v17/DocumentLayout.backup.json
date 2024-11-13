@@ -1,0 +1,645 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\gmailregistrationdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\gmailregistrationdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\shared\\_progressbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\shared\\_progressbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E21684-654A-4ED6-BA79-DBA647DE86C3}|GmailRegistrationDemo.Services\\GmailRegistrationDemo.Services.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.services\\gmailregistrationdemo.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4E21684-654A-4ED6-BA79-DBA647DE86C3}|GmailRegistrationDemo.Services\\GmailRegistrationDemo.Services.csproj|solutionrelative:gmailregistrationdemo.services\\gmailregistrationdemo.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\registration\\step4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\registration\\step4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\registration\\step3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\registration\\step3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\controllers\\remotevalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\controllers\\remotevalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E21684-654A-4ED6-BA79-DBA647DE86C3}|GmailRegistrationDemo.Services\\GmailRegistrationDemo.Services.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.services\\services\\phoneverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E21684-654A-4ED6-BA79-DBA647DE86C3}|GmailRegistrationDemo.Services\\GmailRegistrationDemo.Services.csproj|solutionrelative:gmailregistrationdemo.services\\services\\phoneverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E21684-654A-4ED6-BA79-DBA647DE86C3}|GmailRegistrationDemo.Services\\GmailRegistrationDemo.Services.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.services\\services\\generateemailsuggestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E21684-654A-4ED6-BA79-DBA647DE86C3}|GmailRegistrationDemo.Services\\GmailRegistrationDemo.Services.csproj|solutionrelative:gmailregistrationdemo.services\\services\\generateemailsuggestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.data\\models\\registerstep5viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|solutionrelative:gmailregistrationdemo.data\\models\\registerstep5viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\registration\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\registration\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\registration\\step9.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\registration\\step9.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\registration\\step8.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\registration\\step8.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\registration\\step7.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\registration\\step7.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\registration\\step6.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\registration\\step6.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\registration\\step5.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\registration\\step5.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\registration\\step2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\registration\\step2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\registration\\step1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\registration\\step1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.data\\models\\registerstep1viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|solutionrelative:gmailregistrationdemo.data\\models\\registerstep1viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.data\\models\\registerstep3viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|solutionrelative:gmailregistrationdemo.data\\models\\registerstep3viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.data\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|solutionrelative:gmailregistrationdemo.data\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD575F55-F471-4C6A-B3BC-AD1966BDB224}|GmailRegistrationDemo\\GmailRegistrationDemo.csproj|solutionrelative:gmailregistrationdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.data\\models\\registerstep2viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|solutionrelative:gmailregistrationdemo.data\\models\\registerstep2viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.data\\data\\gmaildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|solutionrelative:gmailregistrationdemo.data\\data\\gmaildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.data\\models\\registerstep9viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|solutionrelative:gmailregistrationdemo.data\\models\\registerstep9viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.data\\models\\registerstep8viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|solutionrelative:gmailregistrationdemo.data\\models\\registerstep8viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.data\\models\\registerstep7viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|solutionrelative:gmailregistrationdemo.data\\models\\registerstep7viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.data\\models\\registerstep6viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|solutionrelative:gmailregistrationdemo.data\\models\\registerstep6viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.data\\models\\registerstep4viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|solutionrelative:gmailregistrationdemo.data\\models\\registerstep4viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|solutionrelative:gmailregistrationdemo.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.data\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|solutionrelative:gmailregistrationdemo.data\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|d:\\internship\\week-7\\weekendtask\\gmailregistrationdemo\\gmailregistrationdemo.data\\migrations\\20241110174838_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07CB76E4-7405-4706-A49A-12AD8E00D47D}|GmailRegistrationDemo.Data\\GmailRegistrationDemo.Data.csproj|solutionrelative:gmailregistrationdemo.data\\migrations\\20241110174838_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Program.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Program.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Program.cs",
+              "RelativeToolTip": "GmailRegistrationDemo\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:22:55.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Controllers\\RegistrationController.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "GmailRegistrationDemo\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAAM8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:15:50.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\appsettings.json",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\appsettings.json",
+              "RelativeToolTip": "GmailRegistrationDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T17:22:10.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GmailRegistrationDemo.Services.csproj",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Services\\GmailRegistrationDemo.Services.csproj",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Services\\GmailRegistrationDemo.Services.csproj",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Services\\GmailRegistrationDemo.Services.csproj",
+              "RelativeToolTip": "GmailRegistrationDemo.Services\\GmailRegistrationDemo.Services.csproj",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T07:43:24.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:46:22.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ProgressBar.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Shared\\_ProgressBar.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\Shared\\_ProgressBar.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Shared\\_ProgressBar.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\Shared\\_ProgressBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:26:03.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GmailRegistrationDemo.csproj",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\GmailRegistrationDemo.csproj",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\GmailRegistrationDemo.csproj",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\GmailRegistrationDemo.csproj",
+              "RelativeToolTip": "GmailRegistrationDemo\\GmailRegistrationDemo.csproj",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T12:51:22.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Step4.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step4.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\Registration\\Step4.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step4.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\Registration\\Step4.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:38:15.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\appsettings.Development.json",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\appsettings.Development.json",
+              "RelativeToolTip": "GmailRegistrationDemo\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T08:42:48.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RemoteValidationController.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Controllers\\RemoteValidationController.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Controllers\\RemoteValidationController.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Controllers\\RemoteValidationController.cs",
+              "RelativeToolTip": "GmailRegistrationDemo\\Controllers\\RemoteValidationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:11:10.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhoneVerification.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Services\\Services\\PhoneVerification.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Services\\Services\\PhoneVerification.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Services\\Services\\PhoneVerification.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Services\\Services\\PhoneVerification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:44:01.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenerateEmailSuggestions.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Services\\Services\\GenerateEmailSuggestions.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Services\\Services\\GenerateEmailSuggestions.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Services\\Services\\GenerateEmailSuggestions.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Services\\Services\\GenerateEmailSuggestions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:43:45.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Step3.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step3.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\Registration\\Step3.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step3.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\Registration\\Step3.cshtml",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:36:58.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Step5.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step5.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\Registration\\Step5.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step5.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\Registration\\Step5.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:39:15.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Step6.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step6.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\Registration\\Step6.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step6.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\Registration\\Step6.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:40:10.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Step7.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step7.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\Registration\\Step7.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step7.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\Registration\\Step7.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:41:01.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterStep5ViewModel.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep5ViewModel.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Data\\Models\\RegisterStep5ViewModel.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep5ViewModel.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Data\\Models\\RegisterStep5ViewModel.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:47:16.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241110174838_CreateDatabase.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Migrations\\20241110174838_CreateDatabase.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Data\\Migrations\\20241110174838_CreateDatabase.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Migrations\\20241110174838_CreateDatabase.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Data\\Migrations\\20241110174838_CreateDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:48:38.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Step8.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step8.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\Registration\\Step8.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step8.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\Registration\\Step8.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:42:02.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Step9.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step9.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\Registration\\Step9.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step9.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\Registration\\Step9.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:43:02.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\Registration\\Dashboard.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Dashboard.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\Registration\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:43:51.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:44:49.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Step2.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step2.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\Registration\\Step2.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step2.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\Registration\\Step2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:35:19.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Step1.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step1.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\Registration\\Step1.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\Registration\\Step1.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\Registration\\Step1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:33:08.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:06:15.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterStep1ViewModel.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep1ViewModel.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Data\\Models\\RegisterStep1ViewModel.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep1ViewModel.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Data\\Models\\RegisterStep1ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:57:55.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GmailRegistrationDemo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T17:07:46.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterStep3ViewModel.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep3ViewModel.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Data\\Models\\RegisterStep3ViewModel.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep3ViewModel.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Data\\Models\\RegisterStep3ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T13:00:00.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GmailDBContext.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Data\\GmailDBContext.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Data\\Data\\GmailDBContext.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Data\\GmailDBContext.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Data\\Data\\GmailDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:01:12.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GmailRegistrationDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:03:14.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterStep7ViewModel.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep7ViewModel.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Data\\Models\\RegisterStep7ViewModel.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep7ViewModel.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Data\\Models\\RegisterStep7ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:57:08.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterStep6ViewModel.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep6ViewModel.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Data\\Models\\RegisterStep6ViewModel.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep6ViewModel.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Data\\Models\\RegisterStep6ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:55:45.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterStep2ViewModel.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep2ViewModel.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Data\\Models\\RegisterStep2ViewModel.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep2ViewModel.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Data\\Models\\RegisterStep2ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:58:57.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Data\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Data\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:52:45.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterStep8ViewModel.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep8ViewModel.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Data\\Models\\RegisterStep8ViewModel.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep8ViewModel.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Data\\Models\\RegisterStep8ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:58:01.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterStep9ViewModel.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep9ViewModel.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Data\\Models\\RegisterStep9ViewModel.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep9ViewModel.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Data\\Models\\RegisterStep9ViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:58:59.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegisterStep4ViewModel.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep4ViewModel.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Data\\Models\\RegisterStep4ViewModel.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\RegisterStep4ViewModel.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Data\\Models\\RegisterStep4ViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:44:57.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Data\\Models\\User.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\User.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:56:38.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "GmailRegistrationDemo.Data\\Models\\Gender.cs",
+              "ToolTip": "D:\\Internship\\Week-7\\WeekendTask\\GmailRegistrationDemo\\GmailRegistrationDemo.Data\\Models\\Gender.cs",
+              "RelativeToolTip": "GmailRegistrationDemo.Data\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:55:47.408Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿@model GmailRegistrationDemo.Data.Models.RegisterStep6ViewModel
+
+@{
+    ViewData["Title"] = "Step 6: Enter Verification Code";
+    ViewBag.CurrentStep = 6;
+}
+
+<h2 class="mb-4 text-center">@ViewData["Title"]</h2>
+
+@await Html.PartialAsync("_ProgressBar")
+
+<div class="card shadow-sm">
+    <div class="card-body">
+        <p>Enter the 6-digit verification code sent to your phone.</p>
+        <form asp-action="Step6" asp-controller="Registration" method="post">
+            <div class="form-group">
+                <label asp-for="VerificationCode"></label>
+                <input asp-for="VerificationCode" maxlength="6" class="form-control" placeholder="Enter verification code" />
+                <span asp-validation-for="VerificationCode" class="text-danger"></span>
+            </div>
+
+            <!-- Back and Next Buttons -->
+            <div class="form-group mt-3 text-end">
+                <a asp-action="Step5" asp-controller="Registration" class="btn btn-secondary">Back</a>
+                <button type="submit" class="btn btn-primary">Verify</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

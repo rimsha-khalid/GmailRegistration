@@ -1,0 +1,15 @@
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\bin\Debug\net8.0\GmailRegistrationDemo.Services.deps.json
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\bin\Debug\net8.0\GmailRegistrationDemo.Services.dll
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\bin\Debug\net8.0\GmailRegistrationDemo.Services.pdb
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\bin\Debug\net8.0\GmailRegistrationDemo.Data.dll
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\bin\Debug\net8.0\GmailRegistrationDemo.Data.pdb
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\obj\Debug\net8.0\GmailRegistrationDemo.Services.csproj.AssemblyReference.cache
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\obj\Debug\net8.0\GmailRegistrationDemo.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\obj\Debug\net8.0\GmailRegistrationDemo.Services.AssemblyInfoInputs.cache
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\obj\Debug\net8.0\GmailRegistrationDemo.Services.AssemblyInfo.cs
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\obj\Debug\net8.0\GmailRegistrationDemo.Services.csproj.CoreCompileInputs.cache
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\obj\Debug\net8.0\GmailReg.564ACB49.Up2Date
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\obj\Debug\net8.0\GmailRegistrationDemo.Services.dll
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\obj\Debug\net8.0\refint\GmailRegistrationDemo.Services.dll
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\obj\Debug\net8.0\GmailRegistrationDemo.Services.pdb
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Services\obj\Debug\net8.0\ref\GmailRegistrationDemo.Services.dll

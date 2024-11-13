@@ -1,0 +1,72 @@
+﻿@model GmailRegistrationDemo.Data.Models.RegisterStep2ViewModel
+@{
+    ViewData["Title"] = "Step 2: Enter Your Date of Birth and Gender";
+    ViewBag.CurrentStep = 2;
+}
+
+<h2 class="mb-4 text-center">@ViewData["Title"]</h2>
+
+@await Html.PartialAsync("_ProgressBar")
+
+<div class="card shadow-sm">
+    <div class="card-body">
+        <form asp-action="Step2" asp-controller="Registration" method="post">
+            <!-- Row for Month, Day, Year -->
+            <div class="row mb-4">
+                <!-- Month Field -->
+                <div class="form-group col-md-4">
+                    <label asp-for="Month" class="form-label"></label>
+                    <select asp-for="Month" class="form-select">
+                        <option value="">Select Month</option>
+                        @foreach (var month in System.Globalization.DateTimeFormatInfo.InvariantInfo.MonthNames.Take(12))
+                        {
+                            <option value="@month">@month</option>
+                        }
+                    </select>
+                    <span asp-validation-for="Month" class="text-danger"></span>
+                </div>
+
+                <!-- Day Field -->
+                <div class="form-group col-md-4">
+                    <label asp-for="Day" class="form-label"></label>
+                    <input asp-for="Day" class="form-control" placeholder="Day" type="number" min="1" max="31"
+                           oninput="if(this.value.length > 2) this.value = this.value.slice(0,2)" />
+                    <span asp-validation-for="Day" class="text-danger"></span>
+                </div>
+
+                <!-- Year Field -->
+                <div class="form-group col-md-4">
+                    <label asp-for="Year" class="form-label"></label>
+                    <input asp-for="Year" class="form-control" placeholder="Year" type="number" min="1900" max="2100"
+                           oninput="if(this.value.length > 4) this.value = this.value.slice(0,4)" />
+                    <span asp-validation-for="Year" class="text-danger"></span>
+                </div>
+            </div>
+            <!-- End of Row for Month, Day, Year -->
+            <!-- Gender Field -->
+            <div class="form-group mb-4">
+                <label asp-for="Gender" class="form-label"></label>
+                <select asp-for="Gender" class="form-select">
+                    <option value="">Select Gender</option>
+                    @foreach (var gender in Enum.GetValues(typeof(Gender)).Cast<Gender>())
+                    {
+                        <option value="@gender">@gender</option>
+                    }
+                </select>
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+
+            <!-- Back and Next Buttons -->
+            <div class="form-group text-end">
+                <a asp-action="Step1" class="btn btn-secondary">Back</a>
+                <button type="submit" class="btn btn-primary px-4">Next</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

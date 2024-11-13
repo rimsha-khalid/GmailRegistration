@@ -1,0 +1,45 @@
+﻿@model GmailRegistrationDemo.Data.Models.User
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="card shadow-sm">
+    <div class="card-body">
+        <div class="text-center mb-4">
+            <h3 class="mb-2">Welcome, @Model.FirstName!</h3>
+            <p class="text-success">Your Gmail account has been created successfully.</p>
+        </div>
+
+        <h4 class="mb-3">Your Account Details:</h4>
+        <ul class="list-group mb-4">
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <strong>Full Name:</strong>
+                <span>@Model.FirstName @Model.LastName</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <strong>Email:</strong>
+                <span>@Model.Email</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <strong>Phone Number:</strong>
+                <span>@Model.CountryCode@Model.PhoneNumber</span>
+            </li>
+            @if (!string.IsNullOrEmpty(Model.RecoveryEmail))
+            {
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <strong>Recovery Email:</strong>
+                    <span>@Model.RecoveryEmail</span>
+                </li>
+            }
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <strong>Date of Birth:</strong>
+                <span>@Model.DateOfBirth.ToString("MMMM dd, yyyy")</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <strong>Gender:</strong>
+                <span>@Model.Gender</span>
+            </li>
+        </ul>
+    </div>
+</div>

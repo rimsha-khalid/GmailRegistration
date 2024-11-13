@@ -1,0 +1,138 @@
+﻿@model GmailRegistrationDemo.Data.Models.RegisterStep3ViewModel
+@{
+    ViewData["Title"] = "Step 3: Choose Your Gmail Address";
+    ViewBag.CurrentStep = 3;
+
+    // Determine whether to display the custom email input based on the selected option
+    var displayStyle = Model.SuggestedEmail == "createOwn" ? "block" : "none";
+}
+
+<h2 class="mb-4 text-center">@ViewData["Title"]</h2>
+
+@await Html.PartialAsync("_ProgressBar")
+
+<div class="card shadow-sm">
+    <div class="card-body">
+        <!-- Form to select or create a Gmail address -->
+        <form asp-action="Step3" asp-controller="Registration" method="post">
+            <!-- Email Selection Section -->
+            <div class="form-group mb-4">
+                <label class="form-label">Pick a Gmail address or create your own:</label>
+
+                <!-- Suggested Emails as Radio Buttons -->
+                <div class="form-check">
+                    @foreach (var email in Model.SuggestedEmails)
+                    {
+                        // Check if the current email is the one selected by the user
+                        if (Model.SuggestedEmail == email)
+                        {
+                        // Render the radio button as checked
+                            <input class="form-check-input" type="radio" name="SuggestedEmail" id="email_@email" value="@email" checked="checked" />
+                        }
+                        else
+                        {
+                        // Render the radio button unchecked
+                            <input class="form-check-input" type="radio" name="SuggestedEmail" id="email_@email" value="@email" />
+                        }
+                        // Label for the radio button
+                        <label class="form-check-label" for="email_@email">
+                            @email
+                        </label>
+                        <br />
+                    }
+                </div>
+
+                <!-- Option to Create Own Email -->
+                <div class="form-check mt-2">
+                    @if (Model.SuggestedEmail == "createOwn")
+                    {
+                        @* If "Create your own" is selected, render the radio button as checked *@
+                        <input class="form-check-input" type="radio" name="SuggestedEmail" id="createOwn" value="createOwn" checked>
+                    }
+                    else
+                    {
+                        @* Render the radio button unchecked *@
+                        <input class="form-check-input" type="radio" name="SuggestedEmail" id="createOwn" value="createOwn">
+                    }
+                    <label class="form-check-label" for="createOwn">
+                        Create your own Gmail address
+                    </label>
+                </div>
+
+                <!-- Custom Email Input Field -->
+                <div class="mt-3" id="customEmailDiv" style="display:@displayStyle;">
+                    <label for="CustomEmail" class="form-label">Your Custom Gmail Address:</label>
+                    <!-- Input for custom email address -->
+                    <input id="CustomEmail" asp-for="CustomEmail" class="form-control" placeholder="Enter your desired Gmail address" type="email" />
+                    <!-- Validation message for custom email -->
+                    <span asp-validation-for="CustomEmail" class="text-danger"></span>
+                </div>
+
+                <!-- Hidden Field to Store the Final Email Selection -->
+                <input type="hidden" id="Email" name="Email" value="@Model.Email" />
+                <!-- Validation message for the Email field -->
+                <span asp-validation-for="Email" class="text-danger"></span>
+
+            </div>
+
+            <!-- Navigation Buttons -->
+            <div class="form-group mt-3 text-end">
+                <!-- Back button to navigate to the previous step -->
+                <a asp-action="Step2" class="btn btn-secondary">Back</a>
+                <!-- Submit button to proceed to the next step -->
+                <button type="submit" class="btn btn-primary">Next</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        // Include validation scripts
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function () {
+            // Function to show or hide the custom email input based on the initial selection
+            if ($('input[name="SuggestedEmail"]:checked').val() === 'createOwn') {
+                $('#customEmailDiv').show(); // Show the custom email input
+            } else {
+                $('#customEmailDiv').hide(); // Hide the custom email input
+            }
+
+            // Event handler for changes to the SuggestedEmail radio buttons
+            $('input[name="SuggestedEmail"]').change(function () {
+                if ($('#createOwn').is(':checked')) {
+                    // If "Create your own" is selected
+                    $('#customEmailDiv').show(); // Show the custom email input
+                    $('#CustomEmail').attr('required', true); // Make the custom email input required
+                } else {
+                    // If a suggested email is selected
+                    $('#customEmailDiv').hide(); // Hide the custom email input
+                    $('#CustomEmail').removeAttr('required'); // Remove the required attribute
+                    $('#CustomEmail').val(''); // Clear the custom email input
+                }
+
+                updateEmailField(); // Update the hidden Email field
+                clearValidationErrors(); // Clear any validation errors
+            });
+
+            // Function to update the hidden Email field based on the selection
+            function updateEmailField() {
+                var selectedValue = $('input[name="SuggestedEmail"]:checked').val();
+                if (selectedValue === 'createOwn') {
+                    var customEmail = $('#CustomEmail').val();
+                    $('#Email').val(customEmail); // Set the hidden Email field to the custom email
+                } else {
+                    $('#Email').val(selectedValue); // Set the hidden Email field to the selected suggested email
+                }
+            }
+
+            // Event handler for input changes in the custom email field
+            $('#CustomEmail').on('input', function () {
+                updateEmailField(); // Update the hidden Email field
+                clearValidationErrors(); // Clear validation errors when typing
+            });
+        });
+    </script>
+}

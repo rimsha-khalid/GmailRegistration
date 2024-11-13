@@ -1,0 +1,14 @@
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Data\bin\Debug\net8.0\GmailRegistrationDemo.Data.deps.json
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Data\bin\Debug\net8.0\GmailRegistrationDemo.Data.runtimeconfig.json
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Data\bin\Debug\net8.0\GmailRegistrationDemo.Data.dll
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Data\bin\Debug\net8.0\GmailRegistrationDemo.Data.pdb
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Data\obj\Debug\net8.0\GmailRegistrationDemo.Data.csproj.AssemblyReference.cache
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Data\obj\Debug\net8.0\GmailRegistrationDemo.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Data\obj\Debug\net8.0\GmailRegistrationDemo.Data.AssemblyInfoInputs.cache
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Data\obj\Debug\net8.0\GmailRegistrationDemo.Data.AssemblyInfo.cs
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Data\obj\Debug\net8.0\GmailRegistrationDemo.Data.csproj.CoreCompileInputs.cache
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Data\obj\Debug\net8.0\GmailRegistrationDemo.Data.dll
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Data\obj\Debug\net8.0\refint\GmailRegistrationDemo.Data.dll
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Data\obj\Debug\net8.0\GmailRegistrationDemo.Data.pdb
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Data\obj\Debug\net8.0\GmailRegistrationDemo.Data.genruntimeconfig.cache
+D:\Internship\Week-7\WeekendTask\GmailRegistrationDemo\GmailRegistrationDemo.Data\obj\Debug\net8.0\ref\GmailRegistrationDemo.Data.dll
