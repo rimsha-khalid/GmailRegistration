@@ -8,5 +8,7 @@ namespace GmailRegistrationDemo.Data.Models
 {
     internal class GitTesting
     {
+        public int MyProperty { get; set; }
+        public int MyProperty2 { get; set; }
     }
 }
